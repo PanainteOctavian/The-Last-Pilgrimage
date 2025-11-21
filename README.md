@@ -11,7 +11,7 @@
 
 2. **Open in IntelliJ IDEA**
    - Go to **File → Open**
-   - Navigate to the extracted folder `the-last-pilgrimage-main`
+   - Navigate to the extracted folder `The-Last-Pilgrimage-main`
    - Select the **pom.xml** file
    - When prompted, choose **"Open as Project"**
 
