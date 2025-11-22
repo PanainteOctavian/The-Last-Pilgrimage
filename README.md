@@ -2,7 +2,7 @@
 
 **"You are a cursed knight, brought back to life to save your world from the forces of evil. Will you succeed, or will your world be lost?"**
 
-### Screenshots from the game
+### Screenshots and videos from the game
 
    <img width="1024" height="517" alt="LOAD_SCREEN" src="https://github.com/user-attachments/assets/c3da1804-6aff-412d-8df7-d18caa731a92" />
    
