@@ -1,8 +1,20 @@
-# The Last Pilgrimage
+<img width="1026" height="516" alt="PAUSE_SCREEN" src="https://github.com/user-attachments/assets/619fb244-1341-44fd-b15a-edbcb01798ed" /># The Last Pilgrimage
 
 ## Story
 
 **"You are a cursed knight, brought back to life to save your world from the forces of evil. Will you succeed, or will your world be lost?"**
+
+### Screenshots from the game
+
+   <img width="1024" height="517" alt="LOAD_SCREEN" src="https://github.com/user-attachments/assets/c3da1804-6aff-412d-8df7-d18caa731a92" />
+   
+   <img width="1026" height="516" alt="PAUSE_SCREEN" src="https://github.com/user-attachments/assets/2c54cc17-b965-4ac6-a315-813162f8b505" />
+
+   [level1.webm](https://github.com/user-attachments/assets/802e85d7-03cb-4b09-accc-635f7cb25c05)
+
+   [level2.webm](https://github.com/user-attachments/assets/e2ab860a-5864-413a-b7fb-117818a99c12)
+   
+   [level3.webm](https://github.com/user-attachments/assets/2bd08562-9c84-4a4b-aca9-afaf8b62e2d3)
 
 ## Game Features
 
